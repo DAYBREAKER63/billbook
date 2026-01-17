@@ -1,0 +1,5 @@
+{
+  "name": "BillBook: GST Invoice & Billing",
+  "description": "A comprehensive mobile billing and invoice book app for small business owners in India. It supports GST-compliant invoice generation, A4 print-ready formats, customer and item management, and works fully offline.",
+  "requestFramePermissions": []
+}
